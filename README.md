@@ -17,10 +17,8 @@ I take action — pursuing perfection in everything I do. I uphold strong work e
 #### 📫 Let's Connect
 - 📧 Email: [simonchu199510@gmail.com](mailto:simonchu199510@gmail.com)
 - 📝 Blog: [Medium @chu-chu](https://medium.com/@chu-chu)
-- 🧑‍💼 Linkined: [Simon Chu](https://www.linkedin.com/in/simon-chu-tw/)
+- 🧑‍💼 LinkedIn: [Simon Chu](https://www.linkedin.com/in/simon-chu-tw/)
 - 💼 Resume: [Portfolio](https://xchux.github.io/Resume/)
-
-![Visitor Count](https://komarev.com/ghpvc/?username=xchux&style=for-the-badge&color=blue)
 
 ---
 
